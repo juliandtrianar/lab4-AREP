@@ -147,6 +147,8 @@ Ingrese en los campos del formulario los valores, de clic en el botón `Search`:
 
    ### Video
 
+   "view raw para descargar el video"
+
 https://github.com/juliandtrianar/lab4-AREP/blob/4e1d2f7f9b641977ddf7deca9c259a14d59fb5e3/DespliegueAREP.mp4
 
 ## Autor
